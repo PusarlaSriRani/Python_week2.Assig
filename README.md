@@ -1,22 +1,5 @@
 # Python Week 2 Assignment
 
-
-
-# 📚 Topics Covered
-
-* Class and Object Creation
-* Constructors and Instance Variables
-* Inheritance
-* Method Overriding
-* Polymorphism
-* Exception Handling
-* Dictionary Operations
-* File Handling
-* Lambda Functions & List Comprehension
-* Real-World Mini Projects
-
----
-
 # 📂 Project Structure
 
 ```
